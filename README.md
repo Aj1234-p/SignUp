@@ -4,8 +4,7 @@ A simple, clean Signup page built with HTML and CSS.
 
 ## 🔗 Live Demo
 
-> Add your GitHub Pages link here after deployment, e.g.:
-> `https://<your-username>.github.io/<repo-name>/`
+live link: https://aj1234-p.github.io/SignUp/
 
 ## 📋 Features
 
